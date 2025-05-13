@@ -1,4 +1,4 @@
-##Student Exam Performance Indicator
+## Student Exam Performance Indicator
 This project explores how various factors such as Gender, Ethnicity, Parental Level of Education, Lunch Type, and Test Preparation Course influence students' performance in exams. By analyzing these variables, we aim to gain insights that could help educators and policymakers improve educational outcomes.
 
 Project Objective
